@@ -8,7 +8,7 @@ body:
     attributes:
       label: Contact information
       description: How can we reach you for further details?
-      placeholder: ex: email@domain.com
+      placeholder: ex. email@domain.com
     validations:
       required: true
   - type: textarea
