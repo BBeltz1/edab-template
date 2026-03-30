@@ -7,11 +7,6 @@ List the PRs that made it into dev that are waiting to be pulled into main:
 * PR #? which fixes #?  
 * PR #? which fixes #?   
 
-### Release notes (for R packages only)
-
-- [ ] DESCRIPTION file updated?
-- [ ] NEWS.md file updated?
-
 ### Types of changes
 
 What types of changes does code introduce? Put an `x` in the boxes that apply.
@@ -24,9 +19,6 @@ This will inform the new release number.
 
 
 ### Reviewer instructions
-
-* The DESCRIPTION file to ensure semantic versioning was followed
-* NEWS.md to ensure change notes are complete
 
 The underlying PRs should already have been reviewed.
 

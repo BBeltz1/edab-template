@@ -15,15 +15,7 @@ What types of changes does your code introduce? Put an `x` in the boxes that app
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply) 
 
-### Checklist/Reminders (for R packages only)
 
-Put an `x` in the boxes that apply
-
-- [ ] I have updated relevant documentation? (run `pkgdown::build_site()` to check)
-- [ ] I have created unit tests and run `devtools::test()` to ensure all unit tests pass locally?
-- [ ] I have run `devtools::check()` to ensure package builds locally?
-- [ ] I have followed the proposed [CONTRIBUTING](../blob/main/CONTRIBUTING.md) guideline?
- 
 ### Further comments
 
 If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
