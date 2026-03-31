@@ -1,4 +1,4 @@
-Your commits explain the 'who', `what` , `where` and 'when' of these changes. Your code shows the 'how'. You do not need to reiterate this. This PR should complete the big picture by telling the 'why'.
+Your commits explain the `who`, `what`, `where` and `when` of these changes. Your code shows the `how`. You do not need to reiterate this. This PR should complete the big picture by telling the `why`.
 
 ### Justification
 
