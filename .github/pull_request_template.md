@@ -1,4 +1,4 @@
-Your commits explain the 'who', `what` , `where` and 'when' of these changes. Your code shows the 'how'. You do not need to reiterate this. This PR should complete the big picture by telling the 'why'.
+Your commits explain the `who`, `what`, `where` and `when` of these changes. Your code shows the `how`. You do not need to reiterate this. This PR should complete the big picture by telling the `why`.
 
 ### Justification
 
@@ -13,8 +13,7 @@ What types of changes does your code introduce? Put an `x` in the boxes that app
 - [ ] Bugfix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation Update (if none of the other choices apply) 
-
+- [ ] Other change (if none of the other choices apply) 
 
 ### Further comments
 
@@ -27,7 +26,6 @@ Assign at least 2 reviewers:
 * the others should be familiar with the subject changes.
 
 Please detail the process reviewers will need to follow to properly test these changes. It is especially helpful to identify the exact code needed to conduct a local build/review/test and to specify any aspects of the testing that may not be obvious.
-
 
 ### Formatting
 
