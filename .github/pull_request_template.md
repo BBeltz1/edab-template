@@ -4,7 +4,8 @@ Your commits explain the `who`, `what`, `where` and `when` of these changes. You
 
 Describe the big picture of your changes here to communicate to the reviewers why they should accept this pull request.
 Please describe the importance/impact of the problem and a description of how the changes in this pull request will address, resolve or improve the problem.
-If it fixes a bug or resolves a feature request, be sure to link to the issue below.
+If the proposed changes should close an issue, be sure to link to it below:
+Fixes #?
 
 ### Types of changes
 
