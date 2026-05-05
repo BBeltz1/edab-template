@@ -1,8 +1,8 @@
-PRs into dev contained all info we needed. They have already been reviewed. If you've got this far we're in good shape!
+PRs into `dev` contained the info we needed. They have already been approved. If you've got this far we're in good shape!
 
 ### List PRs
 
-List the PRs that made it into dev that are waiting to be pulled into main:
+List the PRs that made it into `dev` that are waiting to be pulled into `main`:
 
 * PR #? which fixes #?  
 * PR #? which fixes #?   
@@ -19,6 +19,6 @@ This will inform the new release number.
 
 ### Reviewer instructions
 
-The underlying PRs should already have been reviewed.
+The underlying PRs should have been reviewed. Please check that the proposed merge is correct before approving.
 
 
