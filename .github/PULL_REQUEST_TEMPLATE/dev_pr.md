@@ -4,8 +4,8 @@ PRs into `dev` contained the info we needed. They have already been approved. If
 
 List the PRs that made it into `dev` that are waiting to be pulled into `main`:
 
-* PR #? which fixes #?  
-* PR #? which fixes #?   
+* PR #? which fixes #?
+* PR #? which fixes #?
 
 ### Types of changes
 
@@ -20,5 +20,7 @@ This will inform the new release number.
 ### Reviewer instructions
 
 The underlying PRs should have been reviewed. Please check that the proposed merge is correct before approving.
-
-
+If any checkboxes other than "Other change" have been selected a new version needs to be released.
+Please prepare the following file changes:
+- [ ] NEWS.md - add release notes
+- [ ] DESCRIPTION - increment the version number according to [Semantic Versioning](semver.org)
