@@ -5,7 +5,6 @@ PRs into `dev` contained the info we needed. They have already been approved. If
 List the PRs that made it into `dev` that are waiting to be pulled into `main`:
 
 * PR #? which fixes #?
-* PR #? which fixes #?
 
 ### Types of changes
 
