@@ -4,7 +4,7 @@ Please complete the fields below, replacing or removing placeholder text where n
 ### Justification
 
 Please describe the importance/impact of the problem and a description of how the changes in this pull request will address, resolve or improve it. This section should sufficiently explain to reviewers why these changes should be approved.
-If the proposed changes should close an issue, be sure to link to it below:
+If the proposed changes should close an issue, be sure to link to it below:  
 Fixes #?
 
 ### Types of changes
@@ -21,7 +21,7 @@ This will inform the new release number.
 
 If this is a relatively large or complex change, kick off a discussion by explaining why you chose the solution you did, what alternatives you considered, problems you may have encountered, etc.
 
-### Reviewer instructions:
+### Reviewer instructions
 
 Assign at least 2 reviewers: 
 * one of which should be a maintainer of this repo, 
@@ -32,5 +32,5 @@ Please detail the process reviewers will need to follow to properly test these c
 ### Formatting
 
 This repo contains an `air.toml` file that automatically formats code to a set of standards.
-It is preferred that contributors and reviewers install the [air](https://posit-dev.github.io/air/) formatting tool.
+It is preferred that contributors and reviewers install the [Air](https://posit-dev.github.io/air/) formatting tool.
 Code submitted in this pull request will be automatically checked for correct formatting.
