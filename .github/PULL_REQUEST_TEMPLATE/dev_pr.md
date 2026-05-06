@@ -22,4 +22,4 @@ This will inform the new release number.
 The underlying PRs should have been reviewed. Please check that the proposed merge is correct before approving.
 If any checkboxes other than "Other change" have been selected please prepare the following file changes for a new release version:
 - [ ] NEWS.md - add release notes
-- [ ] DESCRIPTION - increment the version number according to [Semantic Versioning](semver.org)
+- [ ] DESCRIPTION - increment the version number according to [Semantic Versioning](www.semver.org)
