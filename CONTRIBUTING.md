@@ -90,18 +90,13 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 ## :memo: Writing Commit Messages
 
-Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
+Please [write a conventional commit message](https://www.conventionalcommits.org/en/v1.0.0/).
 
-1. Separate subject from body with a blank line
-1. Limit the subject line to 50 characters
-1. Capitalize the subject line
-1. Do not end the subject line with a period
-1. Use the imperative mood in the subject line (example: "Fix food web issue")
-1. Wrap the body at about 72 characters
-1. Use the body to explain **why**, *not what and how* (the code shows that!)
-1. If applicable, prefix the title with the relevant component name. (examples: "[Docs] Fix typo", "[Profile] Fix missing avatar")
-1. Link the commit message to the issue it fixes, if applicable. (example: "Fixes #1234")
-
+1. Use `type(optional scope): commit message` structure ([see Conventional Commits for types](https://www.conventionalcommits.org/en/v1.0.0/))
+1. Separate changes into their own commits with unique messages
+1. Write using imperative mood (example: "fix: correct the food web")
+1. Include a `scope` if a commit serves a larger purpose (example: "refactor(food web fix): reorder data ingestion")
+1. Be as brief as possible without losing clarity
 
 ## :shark: Coding Style
 
