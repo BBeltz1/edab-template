@@ -60,7 +60,6 @@ Feature requests are more than welcome! While we will consider all requests, we 
 
 - **Be precise** about the proposed outcome of the feature and how it relates to existing features. Include all implementation details.
 
-
 ## :fish_cake: Submitting Pull Requests
 
 We appreciate pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
@@ -69,7 +68,7 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 **Guidelines for happy pull requests:**
 
-- **Communication is the key to success.** If you are unsure about something, ask! We are happy to help. We have an open channel of communication, make sure to reach us up and further develop your ideas or changes before working on a pull request. 
+- **Communication is the key to success.** If you are unsure about something, ask! We are happy to help. We have an open channel of communication, make sure to reach out and further develop your ideas or changes before working on a pull request. 
 
 - **Smaller is better.** Submit **one** pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. **Do not** refactor or reformat code that is unrelated to your change. It is better to **submit many small pull requests** rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether. 
 
@@ -83,17 +82,11 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 - **Update the example project** if one exists to exercise any new functionality you have added.
 
-- **Add documentation.** Document your changes with code doc comments or in existing guides.
+- **Add documentation.** Document your changes with code comments or other documentation.
 
-- **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username. 
-
-- **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch. In Rpath case it will be `dev`.
+- **Use the correct branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the correct branch. In this repo, it will be the `dev` branch.
 
 - **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)** that occur.
-
-- When writing comments, use properly constructed sentences, including punctuation.
-
-- Use spaces, not tabs.
 
 ## :memo: Writing Commit Messages
 
