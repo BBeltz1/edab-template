@@ -1,7 +1,4 @@
 # EDAB Template Github Repository
-<!-- badges: start --> 
-[![format-check.yaml](/actions/workflows/format-check.yml/badge.svg?branch=main)](/actions/workflows/format-check.yml)
-<!-- badges: end -->
 
 ## Contact
 
