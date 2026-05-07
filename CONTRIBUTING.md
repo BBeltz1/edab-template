@@ -52,13 +52,13 @@ When opening an issue, please follow these guidelines:
 
 ## :tropical_fish: Feature Requests
 
-Feature requests are more than welcome! While we will consider all requests, we cannot guarantee your request will be accepted or the timeline for implementation and release. 
+Feature requests are more than welcome! While we will consider all requests, we cannot guarantee your request will be accepted or provide the timeline for implementation and release. 
 
-- **Do not open a duplicate feature request.** Search for existing feature requests first. If you find your feature (or one very similar) previously requested, comment on that issue.
+- **Do not open a duplicate feature request.** Search for existing feature requests first. If you find your feature (or one very similar) previously requested, comment on or add a reaction to that issue.
 
-- **Fully complete the provided issue template.** The feature request template asks for all necessary information for us to begin a productive conversation. 
+- **Fully complete the provided issue template.** The 'Feature Request' template asks for all necessary information for us to begin a productive conversation. 
 
-- Be precise about the proposed outcome of the feature and how it relates to existing features. Include all implementation details.
+- **Be precise** about the proposed outcome of the feature and how it relates to existing features. Include all implementation details.
 
 
 ## :fish_cake: Submitting Pull Requests
