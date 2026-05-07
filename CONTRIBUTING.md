@@ -27,12 +27,12 @@ GitHub issues are not the appropriate place to debug your specific project, but 
 
 ## :fishing_pole_and_fish: Opening an Issue
 
-Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
+Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check that you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
 
 ### :blowfish: Bug Reports and Other Issues
 
-A great way to contribute to the project is to send a detailed issue when you encounter a problem. We ask you to please create a [reprex](https://reprex.tidyverse.org/).
-We always appreciate a well-written, thorough bug report. This helps us quickly identify and fix the problem.
+A great way to contribute to the project is to send a detailed issue when you encounter a problem.
+This repo has a 'Bug Report' issue template that will guide you in submitting a well-written, thorough bug report. If possible, please also create a [reprex](https://reprex.tidyverse.org/) and include it in your issue. This helps us quickly identify and fix the problem.
 
 When opening an issue, please follow these guidelines:
 
@@ -46,9 +46,7 @@ When opening an issue, please follow these guidelines:
 
 - **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability. In short, since you are most likely a developer, **provide a ticket that you would like to receive**.
 
-- **Review the documentation** before opening a new issue.
-
-- **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply note "I have this problem too", which helps prioritize the most common problems and requests. 
+- **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply leave a reaction to bump the issue, which helps prioritize the most common problems and requests. 
 
 - **Fully complete the provided issue template.** The bug report template requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can, including steps to reproduce, stack traces, compiler errors, library versions, OS versions, and screenshots (if applicable).
 
