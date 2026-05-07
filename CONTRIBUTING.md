@@ -6,13 +6,13 @@
 
 - [Code of Conduct](#book-code-of-conduct)
 - [Asking Questions](#paperclip-asking-questions)
-- [Opening an Issue](#inbox_tray-opening-an-issue)
-- [Bug Reports and Other Issues](#beetle-bug-reports-and-other-issues)
+- [Opening an Issue](#fishing_pole_and_fish-opening-an-issue)
+- [Bug Reports and Other Issues](#blowfish-bug-reports-and-other-issues)
 - [Feature Requests](#tropical_fish-feature-requests)
-- [Submitting Pull Requests](#repeat-submitting-pull-requests)
+- [Submitting Pull Requests](#fish_cake-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
-- [Coding Style](#nail_care-coding-style)
-- [Certificate of Origin](#medal_sports-certificate-of-origin)
+- [Coding Style](#shark-coding-style)
+- [Certificate of Origin](#crab-certificate-of-origin)
 - [Credits](#pray-credits)
 
 > **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
