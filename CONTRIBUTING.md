@@ -100,9 +100,7 @@ Please [write a conventional commit message](https://www.conventionalcommits.org
 
 ## :shark: Coding Style
 
-Consistency is the most important. Following the existing style, formatting, and naming conventions of the file you are modifying and of the overall project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance.
-
-For example, if all private properties are prefixed with an underscore `_`, then new ones you add should be prefixed in the same way. Or, if methods are named using camelcase, like `thisIsMyNewMethod`, then do not diverge from that by writing `this_is_my_new_method`. You get the idea. If in doubt, please ask or search the codebase for something similar.
+Consistent formatting is an essential part of effective collaboration and communication. Reading, writing and reviewing code all benefit from following the standards and conventions of a project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance. This repo uses and adheres to the [tidyverse style guide](https://style.tidyverse.org/) and the [Air autoformatting tool](https://posit-dev.github.io/air/) that follows it. Please read and follow these guides as you make contributions to the project.
 
 
 ## :crab: Certificate of Origin
