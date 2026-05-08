@@ -11,8 +11,8 @@
 - [Bug Reports and Other Issues](#blowfish-bug-reports-and-other-issues)
 - [Feature Requests](#tropical_fish-feature-requests)
 - [Creating a Branch](#anchor-creating-a-branch)
-- [Submitting Pull Requests](#fish_cake-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
+- [Submitting Pull Requests](#fish_cake-submitting-pull-requests)
 - [Coding Style](#shark-coding-style)
 - [Certificate of Origin](#crab-certificate-of-origin)
 - [Credits](#pray-credits)
@@ -93,6 +93,16 @@ Many contributions to this project will make use of [branching](https://docs.git
 - Include an issue number in your branch name (your changes should relate to an [existing issue](#fishing_pole_and_fish-opening-an-issue))
 - Provide a clear but concise description of the branch's purpose
 
+## :memo: Writing Commit Messages
+
+Please write a **conventional** commit message:
+
+1. Use `type(optional scope): commit message` structure (see above for [acceptable `types`](#whale-acceptable-types))
+1. Separate changes into their own commits with unique messages
+1. Write using imperative mood (example: "fix: correct the food web")
+1. Include a `scope` if a commit serves a larger purpose (example: "refactor(food web fix): reorder data ingestion")
+1. Be as brief as possible without losing clarity
+
 ## :fish_cake: Submitting Pull Requests
 
 We appreciate pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
@@ -122,16 +132,6 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 - **Use the correct branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the correct branch (see above for [branching instructions](#anchor-creating-a-branch)). In this repo, it will be the `dev` branch.
 
 - **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)** that occur.
-
-## :memo: Writing Commit Messages
-
-Please write a **conventional** commit message:
-
-1. Use `type(optional scope): commit message` structure (see above for [acceptable `types`](#whale-acceptable-types))
-1. Separate changes into their own commits with unique messages
-1. Write using imperative mood (example: "fix: correct the food web")
-1. Include a `scope` if a commit serves a larger purpose (example: "refactor(food web fix): reorder data ingestion")
-1. Be as brief as possible without losing clarity
 
 ## :shark: Coding Style
 
