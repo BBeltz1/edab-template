@@ -1,8 +1,5 @@
 # EDAB Template Github Repository
 
-[![format-check.yaml](https://github.com/BBeltz1/edab-template/actions/workflows/format-check.yml/badge.svg?branch=main)](https://github.com/BBeltz1/edab-template/actions/workflows/format-check.yml)
-
-
 ## Contact
 
 | [NEFSC EDAB](https://github.com/NOAA-EDAB)
