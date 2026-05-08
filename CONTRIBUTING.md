@@ -68,6 +68,8 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 **Guidelines for happy pull requests:**
 
+- **Request appropriate reviewers.** At the very least, please request review from one or all of the project maintainers (see our [README](README.md)). You should include additional reviews from people familiar with the subject or problem your proposed changes address.
+
 - **Communication is the key to success.** If you are unsure about something, ask! We are happy to help. We have an open channel of communication, make sure to reach out and further develop your ideas or changes before working on a pull request. 
 
 - **Smaller is better.** Submit **one** pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. **Do not** refactor or reformat code that is unrelated to your change. It is better to **submit many small pull requests** rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether. 
