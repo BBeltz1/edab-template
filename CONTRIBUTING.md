@@ -29,7 +29,7 @@ GitHub issues are not the appropriate place to debug your specific project, but 
 
 ## :whale: Acceptable Types
 
-Throughout this project, we use standardized `types` to communicate more effectively. These types are used when labeling issues, creating branches, committing changes and naming pull requests. Please reference and use the `types` below when contributing to this project:
+Throughout this project, we use standard `types` to communicate more effectively. These types are used when labeling issues, creating branches, committing changes and naming pull requests. Please reference and use the `types` below when contributing to this project:
 
 - **bug:** Unexpected or undesirable behavior
 
