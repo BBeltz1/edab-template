@@ -6,6 +6,7 @@
 
 - [Code of Conduct](#book-code-of-conduct)
 - [Asking Questions](#paperclip-asking-questions)
+- [Acceptable Types](#whale-acceptable-types)
 - [Opening an Issue](#fishing_pole_and_fish-opening-an-issue)
 - [Bug Reports and Other Issues](#blowfish-bug-reports-and-other-issues)
 - [Feature Requests](#tropical_fish-feature-requests)
@@ -24,6 +25,8 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md). It is in effect at all 
 ## :paperclip: Asking Questions
 
 GitHub issues are not the appropriate place to debug your specific project, but should be reserved for filing bugs and feature requests.
+
+## :whale: Acceptable Types
 
 ## :fishing_pole_and_fish: Opening an Issue
 
@@ -92,9 +95,9 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 ## :memo: Writing Commit Messages
 
-Please write a conventional commit message:
+Please write a **conventional** commit message:
 
-1. Use `type(optional scope): commit message` structure (see above for acceptable `types`)
+1. Use `type(optional scope): commit message` structure (see above for [acceptable `types`](#whale-acceptable-types))
 1. Separate changes into their own commits with unique messages
 1. Write using imperative mood (example: "fix: correct the food web")
 1. Include a `scope` if a commit serves a larger purpose (example: "refactor(food web fix): reorder data ingestion")
