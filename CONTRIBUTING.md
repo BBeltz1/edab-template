@@ -10,6 +10,7 @@
 - [Opening an Issue](#fishing_pole_and_fish-opening-an-issue)
 - [Bug Reports and Other Issues](#blowfish-bug-reports-and-other-issues)
 - [Feature Requests](#tropical_fish-feature-requests)
+- [Creating a Branch](#anchor-creating-a-branch)
 - [Submitting Pull Requests](#fish_cake-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
 - [Coding Style](#shark-coding-style)
@@ -63,6 +64,9 @@ Feature requests are more than welcome! While we will consider all requests, we 
 
 - **Be precise** about the proposed outcome of the feature and how it relates to existing features. Include all implementation details.
 
+## :anchor: Creating a Branch
+
+
 ## :fish_cake: Submitting Pull Requests
 
 We appreciate pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
@@ -89,7 +93,7 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 - **Add documentation.** Document your changes with code comments or other documentation.
 
-- **Use the correct branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the correct branch. In this repo, it will be the `dev` branch.
+- **Use the correct branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the correct branch (see above for [branching instructions](#anchor-creating-a-branch)). In this repo, it will be the `dev` branch.
 
 - **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)** that occur.
 
