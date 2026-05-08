@@ -29,6 +29,26 @@ GitHub issues are not the appropriate place to debug your specific project, but 
 
 ## :whale: Acceptable Types
 
+Throughout this project, we use standardized `types` to communicate more effectively. These types are used when labeling issues, creating branches, committing changes and naming pull requests. Please reference and use the `types` below when contributing to this project:
+
+- **bug:** Unexpected or undesirable behavior
+
+- **build:** Add or modify build-related components (e.g. workflows, versioning, etc.)
+
+- **chore:** Maintenance of product or repository (e.g. gitignore, templates, etc.)
+
+- **docs:** Add or modify documentation
+
+- **feature:** Add or modify a feature or functionality
+
+- **refactor:** Rewrite or restructure code without altering behavior
+
+- **style:** Reformat code style without altering behavior
+
+- **test:** Add or modify tests
+
+All issues, branches, commits and pull requests should align with one of the above `types`. If you have questions or need assistance, please reach out to a maintainer.
+
 ## :fishing_pole_and_fish: Opening an Issue
 
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check that you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
