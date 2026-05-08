@@ -50,7 +50,7 @@ When opening an issue, please follow these guidelines:
 
 - **Fully complete the provided issue template.** The bug report template requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can, including steps to reproduce, stack traces, compiler errors, library versions, OS versions, and screenshots (if applicable).
 
-## :tropical_fish: Feature Requests
+### :tropical_fish: Feature Requests
 
 Feature requests are more than welcome! While we will consider all requests, we cannot guarantee your request will be accepted or provide the timeline for implementation and release. 
 
