@@ -111,7 +111,7 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 **Guidelines for happy pull requests:**
 
-- **Title meaningfully.** Consistent with the convention elsewhere, please title your pull request: "Type(#I): Describe Change Purpose", where "I" is the number of the issue addressed by the PR. Please reference the [acceptable types](#whale-acceptable-types) above.
+- **Title meaningfully.** Consistent with the convention elsewhere, please title your pull request: "Type(#i): Describe Change Purpose", where "i" is the number of the issue addressed by the PR. Please reference the [acceptable types](#whale-acceptable-types) above.
 
 - **Request appropriate reviewers.** At the very least, please request review from one or all of the project maintainers (maintainers are listed on the [README](README.md)). You should include additional reviews from people familiar with the subject or problem your proposed changes address.
 
