@@ -68,7 +68,7 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 **Guidelines for happy pull requests:**
 
-- **Request appropriate reviewers.** At the very least, please request review from one or all of the project maintainers (see our [README](README.md)). You should include additional reviews from people familiar with the subject or problem your proposed changes address.
+- **Request appropriate reviewers.** At the very least, please request review from one or all of the project maintainers (maintainers are listed on the [README](README.md)). You should include additional reviews from people familiar with the subject or problem your proposed changes address.
 
 - **Communication is the key to success.** If you are unsure about something, ask! We are happy to help. We have an open channel of communication, make sure to reach out and further develop your ideas or changes before working on a pull request. 
 
