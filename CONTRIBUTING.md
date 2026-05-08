@@ -86,6 +86,12 @@ Feature requests are more than welcome! While we will consider all requests, we 
 
 ## :anchor: Creating a Branch
 
+Many contributions to this project will make use of [branching](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches). This repo has two permanent branches: `main` and `dev`. To contribute via branching, you should create a branch from and pull request to the `dev` branch. Your branch name should follow these conventions:
+
+- Use `type/i#-describe-branch-purpose`, where # is the number of the target issue
+- Prefix with the `type` of change the branch will introduce (see [acceptable `types`](#whale-acceptable-types) above)
+- Include an issue number in your branch name (your changes should relate to an [existing issue](#fishing_pole_and_fish-opening-an-issue))
+- Provide a clear but concise description of the branch's purpose
 
 ## :fish_cake: Submitting Pull Requests
 
@@ -130,7 +136,6 @@ Please write a **conventional** commit message:
 ## :shark: Coding Style
 
 Consistent formatting is an essential part of effective collaboration and communication. Reading, writing and reviewing code all benefit from following the standards and conventions of a project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance. This repo uses and adheres to the [tidyverse style guide](https://style.tidyverse.org/) and the [Air autoformatting tool](https://posit-dev.github.io/air/) that follows it. Please read and follow these guides as you make contributions to the project.
-
 
 ## :crab: Certificate of Origin
 
