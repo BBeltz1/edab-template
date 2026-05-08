@@ -92,9 +92,9 @@ We appreciate pull requests! Before [forking the repo](https://help.github.com/e
 
 ## :memo: Writing Commit Messages
 
-Please [write a conventional commit message](https://www.conventionalcommits.org/en/v1.0.0/).
+Please write a conventional commit message:
 
-1. Use `type(optional scope): commit message` structure ([see Conventional Commits for types](https://www.conventionalcommits.org/en/v1.0.0/))
+1. Use `type(optional scope): commit message` structure (see above for acceptable `types`)
 1. Separate changes into their own commits with unique messages
 1. Write using imperative mood (example: "fix: correct the food web")
 1. Include a `scope` if a commit serves a larger purpose (example: "refactor(food web fix): reorder data ingestion")
